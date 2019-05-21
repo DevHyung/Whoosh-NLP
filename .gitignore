@@ -1,0 +1,12 @@
+# IDE
+.idea/
+__pycache__/
+__*/ 
+
+# Etc...
+*.swp
+
+# Whoosh ndx folder
+ndx/
+
+
